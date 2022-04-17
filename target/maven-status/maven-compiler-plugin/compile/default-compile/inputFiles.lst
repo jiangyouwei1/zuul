@@ -1,0 +1,8 @@
+D:\学习\parent\zuul\src\main\java\com\jyw\learn\zuul\config\RedisConfig.java
+D:\学习\parent\zuul\src\main\java\com\jyw\learn\zuul\util\RedisUUId.java
+D:\学习\parent\zuul\src\main\java\com\jyw\learn\zuul\config\FeignConfig.java
+D:\学习\parent\zuul\src\main\java\com\jyw\learn\zuul\filter\AccessTokenFilter.java
+D:\学习\parent\zuul\src\main\java\com\jyw\learn\zuul\ZuulApplication.java
+D:\学习\parent\zuul\src\main\java\com\jyw\learn\zuul\bean\AjaxResult.java
+D:\学习\parent\zuul\src\main\java\com\jyw\learn\zuul\feign\fallback\OauthFeignFallbackFactory.java
+D:\学习\parent\zuul\src\main\java\com\jyw\learn\zuul\feign\OauthFeign.java

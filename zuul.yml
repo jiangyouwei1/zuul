@@ -1,0 +1,15 @@
+version: '3'
+services:
+  zuul:
+    image: 192.168.1.119/demo/zuul:latest
+    networks:
+      - spring-cloud-overlay
+    deploy:
+      replicas: 3
+    environment:
+      - EUREKA_SERVER_ADDR=eureka
+
+networks:
+  spring-cloud-overlay:
+    external:
+      name: spring-cloud-overlay

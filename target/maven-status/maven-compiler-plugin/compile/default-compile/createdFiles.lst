@@ -1,0 +1,9 @@
+com\jyw\learn\zuul\feign\OauthFeign.class
+com\jyw\learn\zuul\ZuulApplication.class
+com\jyw\learn\zuul\config\RedisConfig.class
+com\jyw\learn\zuul\feign\fallback\OauthFeignFallbackFactory.class
+com\jyw\learn\zuul\config\FeignConfig.class
+com\jyw\learn\zuul\bean\AjaxResult.class
+com\jyw\learn\zuul\filter\AccessTokenFilter.class
+com\jyw\learn\zuul\util\RedisUUId.class
+com\jyw\learn\zuul\feign\fallback\OauthFeignFallbackFactory$1.class
